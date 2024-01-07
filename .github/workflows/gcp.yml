@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAME: gcp-devops-project
-      PROJECT_ID: devopsbyexample-325402
+      PROJECT_ID: ivedha-training-409712
     steps:
       - name: Checkout
         uses: actions/checkout@v2
